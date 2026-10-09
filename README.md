@@ -12,3 +12,6 @@ An end-to-end pipeline combining physics-informed feature engineering, full-spac
 ## Prerequisites
 ```bash
 pip install numpy scikit-learn matplotlib
+
+
+![Pipeline](Pipeline.png)
