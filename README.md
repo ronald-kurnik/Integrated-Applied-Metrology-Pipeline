@@ -1,4 +1,3 @@
-```markdown
 # Integrated Applied Metrology Pipeline
 
 An end-to-end pipeline combining physics-informed feature engineering, full-space out-of-distribution anomaly detection, dimensionality reduction, and probabilistic Gaussian Process regression with uncertainty quantification.
