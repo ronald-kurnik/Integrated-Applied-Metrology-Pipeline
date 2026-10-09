@@ -9,9 +9,10 @@ An end-to-end pipeline combining physics-informed feature engineering, full-spac
 4. **Probabilistic Modeling:** Trains an Automatic Relevance Determination (ARD) Gaussian Process Regressor (`RBF` + `WhiteKernel`) on clean inlier data.
 5. **Validation Visualization:** Renders PCA 2D projections, 1:1 prediction fit plots ($R^2 \approx 0.998$), and sample-wise $95\%$ confidence intervals.
 
+![Pipeline](Pipeline.png)
+
 ## Prerequisites
 ```bash
 pip install numpy scikit-learn matplotlib
 
 
-![Pipeline](Pipeline.png)
